@@ -32,7 +32,6 @@ I enjoy building applications, understanding how things work under the hood, and
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle- C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 **Frontend**
